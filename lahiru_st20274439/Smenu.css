@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Smenu.css */
+
+body {
+    font-family: Arial, sans-serif;
+	 margin: 0;
+    padding: 0;
+    background-color: #E9AEAF;
+		
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container-hede {
+    text-align: center;
+	font-size: 40px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+	color: black;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: black;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+.btn:active {
+    background-color: black;
+}
+
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table tbody tr:hover {
+    background-color: #ddd;
+}

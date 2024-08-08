@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+	 margin: 0;
+    padding: 0;
+    background-color: #E9AEAF;
+		
+}
+
+
+.navbar {
+  
+}
+
+
+.container {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 800px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+	color: black;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: black;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+.btn:active {
+    background-color: black;
+}
+
+/* Table styles */
+.table-offers {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table-offers th,
+.table-offers td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table-offers th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.table-offers tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table-offers tbody tr:hover {
+  background-color: #ddd;
+}
+
+
+.of_table {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #007bff;
+}

@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E9AEAF;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.event_table {
+    text-align: center;
+}
+
+
+
+.table-offers {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-offers th, .table-offers td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.table-offers th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.table-offers tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table-offers tbody tr:hover {
+    background-color: #ddd;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+	color: black;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: black;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+.btn:active {
+    background-color: black;
+}
+
+
+
