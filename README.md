@@ -41,7 +41,7 @@
 <!-- Example: <img src="path_to_screenshot.png" alt="Cineplex Homepage" width="600"> -->
 
 
-<ul>
+
     <li><strong>User Registration & Login:</strong> </li>
 ![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/811c9318-03dd-41d3-91be-91ec66ae7f2a)
 
@@ -54,7 +54,7 @@
     <li><strong>Feedback Submission:</strong> </li>
     
     <li><strong>Parking Availability:</strong> </li>
-</ul>
+
 
 ## Testing
 
