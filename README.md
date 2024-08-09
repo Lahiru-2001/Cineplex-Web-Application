@@ -23,7 +23,6 @@
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Backend:</strong> PHP</li>
     <li><strong>Database:</strong> MySQL</li>
-    <li><strong>Version Control:</strong> Git</li>
 </ul>
 
 ## Usage
