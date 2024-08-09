@@ -43,7 +43,7 @@
 
 <ul>
     <li><strong>User Registration & Login:</strong> </li>
- <img  src=" Screenshot 2024-08-09 191940.png" alt="" width="600"> 
+![Homepage](https://your-repo-link/Screenshot%202024-08-09%20191940.png)
 
     <li><strong>Movie Listings:</strong></li>
     
