@@ -36,24 +36,21 @@
 </ul>
 
 ## Screenshots
+<b>01.User Registration & Login:</b>
 
-<!-- Add image tags here to showcase different parts of the application -->
-<!-- Example: <img src="path_to_screenshot.png" alt="Cineplex Homepage" width="600"> -->
+<b>02.Home Page:
 
+![Screenshot 2024-08-09 191940](https://github.com/user-attachments/assets/74857518-0db7-45c1-a0e2-9ab099ec4b64)
 
+03.Movie Listings:
 
-    <li><strong>User Registration & Login:</strong> </li>
-![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/811c9318-03dd-41d3-91be-91ec66ae7f2a)
+    ![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/811c9318-03dd-41d3-91be-91ec66ae7f2a)
+    ![Screenshot 2024-08-09 192935](https://github.com/user-attachments/assets/7d7e4b34-2f64-4463-bcd3-ab3bbe28cabc)
 
-    <li><strong>Movie Listings:</strong></li>
-    
-    <li><strong>Ticket Booking:</strong> </li>
-    
-    <li><strong>Admin Dashboard:</strong> </li>
-    
-    <li><strong>Feedback Submission:</strong> </li>
-    
-    <li><strong>Parking Availability:</strong> </li>
+04.Ticket Booking:
+05.Admin Dashboard:
+06.Feedback Submission:
+07.Parking Availability:</b>
 
 
 ## Testing
