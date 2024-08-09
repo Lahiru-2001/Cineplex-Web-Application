@@ -43,7 +43,7 @@
 
 <ul>
     <li><strong>User Registration & Login:</strong> </li>
-![Homepage](https://your-repo-link/Screenshot%202024-08-09%20191940.png)
+![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/811c9318-03dd-41d3-91be-91ec66ae7f2a)
 
     <li><strong>Movie Listings:</strong></li>
     
