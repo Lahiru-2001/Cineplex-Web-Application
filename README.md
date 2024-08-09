@@ -38,19 +38,19 @@
 ## Screenshots
 <b>01.User Registration & Login:</b>
 
-<b>02.Home Page:
+<b>02.Home Page:</b>
 
 ![Screenshot 2024-08-09 191940](https://github.com/user-attachments/assets/74857518-0db7-45c1-a0e2-9ab099ec4b64)
 
-03.Movie Listings:
+<b>03.Movie Listings:</b>
 
     ![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/811c9318-03dd-41d3-91be-91ec66ae7f2a)
     ![Screenshot 2024-08-09 192935](https://github.com/user-attachments/assets/7d7e4b34-2f64-4463-bcd3-ab3bbe28cabc)
 
-04.Ticket Booking:
-05.Admin Dashboard:
-06.Feedback Submission:
-07.Parking Availability:</b>
+<b>04.Ticket Booking:</b>
+<b>05.Admin Dashboard:</b>
+<b>06.Feedback Submission:</b>
+<b>07.Parking Availability:</b>
 
 
 ## Testing
