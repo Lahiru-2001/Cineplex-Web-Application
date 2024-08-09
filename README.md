@@ -34,8 +34,8 @@
     <li><strong>Booking:</strong> Select seats, book tickets, and make payments securely.</li>
     <li><strong>Admin Panel:</strong> Manage the website’s content, including movie listings, promotions, and user feedback.</li>
 </ul>
-## Testing
 
+## Testing
 <p>Testing includes:</p>
 
 <ul>
