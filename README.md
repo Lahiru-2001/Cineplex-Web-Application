@@ -34,40 +34,6 @@
     <li><strong>Booking:</strong> Select seats, book tickets, and make payments securely.</li>
     <li><strong>Admin Panel:</strong> Manage the website’s content, including movie listings, promotions, and user feedback.</li>
 </ul>
-
-## Screenshots
-<b>01.User Registration & Login:</b>
-
-![Screenshot 2024-08-09 195544](https://github.com/user-attachments/assets/fd5f7cbf-e525-4e34-8204-ebb909a7fe78)
-
-
-<b>02.Home Page:</b>
-
-![Screenshot 2024-08-09 191940](https://github.com/user-attachments/assets/74857518-0db7-45c1-a0e2-9ab099ec4b64)
-
-<b>03.Movie Listings:</b>
-
-![Screenshot 2024-08-09 192935](https://github.com/user-attachments/assets/9648520d-1484-4c6a-b27d-83fee94b07c5)
-![Screenshot 2024-08-09 192954](https://github.com/user-attachments/assets/55221fca-82cb-4ed2-8fa7-3c8b7f885951)
-
-<b>04.Ticket Booking:</b>
-
-![Screenshot 2024-08-09 192726](https://github.com/user-attachments/assets/3bf7b0f1-f974-4b84-8581-7899ff0c92fa)
-
-<b>05.Admin Dashboard:</b>
-
-![Screenshot 2024-08-09 192821](https://github.com/user-attachments/assets/2b75534f-28f4-441a-9c89-9250ef4b2a32)
-
-<b>06.Feedback Submission:</b>
-
-![Screenshot 2024-08-09 192845](https://github.com/user-attachments/assets/b191ca4a-4b43-4091-b533-49ceae833588)
-
-<b>07.Parking Availability:</b>
-
-![Screenshot 2024-08-09 192905](https://github.com/user-attachments/assets/6f006448-0a2d-4bff-99a6-044335d715f5)
-
-
-
 ## Testing
 
 <p>Testing includes:</p>
